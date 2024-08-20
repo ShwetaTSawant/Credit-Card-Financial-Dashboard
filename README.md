@@ -43,7 +43,7 @@ This dashboard provides a detailed representation of the aspects of Credit Card 
 
 #### Here are the important key performance indicators (KPIs) for Crefit Card Transaction Report
 
- * Total Revenue: 576M.
+ * Total Revenue: 55.3M.
  * Transction Amount : 45M. 
  * Total Interest: 7.8M
  * Transaction Count : 656K
@@ -75,13 +75,13 @@ This dashboard provides a detailed representation of the aspects of Credit Card 
 *	Travel (6M): Despite being lower, it’s an important category for potential growth, especially if linked to 
   premium card offerings.
 
-## Income Group:: 
+## Income Group:
 
 *	High-income customers dominate with 22M in revenue, emphasizing the importance of this segment.
 *	Medium-income (8M) and Low-income (8M) groups also contribute significantly but are far behind the 
   high-income group.
 
-## Education Level::
+## Education Level:
 
  * Graduates (22M) and Post-Graduates (8M) contribute the most to revenue.
  * High School (11M) and Doctorate (2M) show that educational attainment correlates with spending, 
@@ -98,7 +98,7 @@ This dashboard provides a detailed representation of the aspects of Credit Card 
 
  * Total Customers: 10k .
  * Total Income : 576M. 
- * Total Revenue: 576M.
+ * Total Revenue: 55.3M.
  * CSS : 3.19
 
 ### Revenue by Gender:
