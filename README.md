@@ -6,7 +6,7 @@
 
 The goal of this dashboard is to identify and segment customers based on card usage and transaction patterns to provide our stakeholders with real-time data.
 
-## About Datset:
+## About Dataset:
 
  * The Credit Card Analysis data collection, which includes information from January 2023 to December 2023, has been used for this project.
 
@@ -60,19 +60,19 @@ This dashboard provides a detailed representation of the aspects of Credit Card 
 
 ## Detailed Explanation:
 
-#### Here are the important key performance indicators (KPIs) for Crefit Card Transaction Report
+#### Here are the important key performance indicators (KPIs) for Cradit Card Transaction Report
 
  * Total Revenue: 576M.
- * Transction Amount : 45M. 
+ * •	Transaction Amount:45M. 
  * Total Interest: 7.8M
- * Transaction Count : 656K
+ * Transaction Count: 656K
  
 ### 📉Revenue and Transaction Volume Trends:
  * Monthly Revenue and Transaction Count: The report tracks monthly performance from January to December 2023.
  * Revenue Peaks: The revenue finds a peak in March($5.2M) and the following in August($5.7M) meaning these 
     two months have experienced higher customer spending. The lowest revenue is recorded in January and December.
  * The highest transaction count also happens in August to align the revenue peaks, as it shows 62.9 k 
-   transactions,spotting a lot of movement in the period.
+   transactions, spotting  a lot of movement in the period.
 
 
 ### Revenue by Card Category: 
@@ -82,7 +82,7 @@ This dashboard provides a detailed representation of the aspects of Credit Card 
    $6M, $2M, and $1M respectively. This would imply that most customers have the blue card. This could be either because of the
    kind of benefits it gives or the market segment it has targeted.
 
-### Customer Acquisition Cost (CAC):: 
+### Customer Acquisition Cost (CAC):
  *	Swipe Transactions: Lead with a CAC of 0.68M, followed by Chip Transactions (0.24M) and Online Transactions
    (0.06M). The higher cost associated with swipe transactions could be due to processing fees or higher usage.
  * Online Transactions: The minimum acquisition cost is for online transactions ($0.06M) – indicating cost efficacy in digital
@@ -94,7 +94,7 @@ This dashboard provides a detailed representation of the aspects of Credit Card 
  *	Diverse Spending: Other important categories are fuel ($9M), grocery ($9M), food ($8M), and travel ($6M), 
   which suggests that there is a diverse spending pattern exhibited by the customers.
 
-## Education Level::
+## Education Level:
 
  * Graduates (22M) and Post-Graduates (8M) contribute the most to revenue.
  * High School (11M) and Doctorate (2M) show that educational attainment correlates with spending, 
@@ -108,9 +108,9 @@ This dashboard provides a detailed representation of the aspects of Credit Card 
 #### Here are the important key performance indicators (KPIs) for Credit Card Customer Report
 
  * Total Customers: 10k .
- * Total Income : 576M. 
+ * Total Income: 576M. 
  * Total Revenue: 576M.
- * CSS : 3.19
+ * CSS: 3.19
 
 ### Revenue by Gender:
  * Male vs Female: Males contribute a bit more to revenue and peak at $0.68M in June of 2023. However, 
